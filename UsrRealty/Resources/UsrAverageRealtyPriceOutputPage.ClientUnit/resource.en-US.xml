@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Average realty price output page" />
+			<Item Name="Parameters.9a2a9838-5ae9-37bc-014b-6b71078bf823.Caption" Value="Average Price, USD" />
+			<Item Name="Parameters.f0e74468-38d6-96eb-0739-f19fd530515c.Caption" Value="SQL Text" />
+		</Items>
+	</Group>
+</Resources>
